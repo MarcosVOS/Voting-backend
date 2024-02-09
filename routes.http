@@ -16,5 +16,10 @@ POST http://localhost:3333/polls/b4ac51c1-7a9b-4f4d-95b0-f57539b6d097/votes
 Content-Type: application/json
 
 {
-    "pollOptionId": "558da4b9-d92b-4738-82bb-0d6436fc2eca"
+    "pollOptionId": "b0fe54a6-b8bf-441c-989e-c1960e0aa3fa"
 }
+
+
+# ### @name Web-socket
+# WS ws://localhost:3333/polls/b4ac51c1-7a9b-4f4d-95b0-f57539b6d097/results
+# Teste
